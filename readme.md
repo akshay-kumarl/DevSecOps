@@ -1,3 +1,14 @@
+# DevSecOps repo
+
+Cloud: AWS, Azure, or GCP <br/>
+SecOps Tools: SonarQube, HashiCorp Vault, Trivy, Ansible Vault <br/>
+Other Tools: JQ, net-tools, unzip, AWS CLI, Tmux, PuTTY 
+
+
+
+
+
+
 # Shell Scrpting: 
 
 Variables-Script-grep-awk-cut
