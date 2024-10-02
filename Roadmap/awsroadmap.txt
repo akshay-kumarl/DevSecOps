@@ -1,0 +1,212 @@
+
+Become Pro in AWS in 10 steps👇
+
+Step.1 Basic of AWS
+What is Cloud Computing?
+AWS Cloud Benefits
+What is AWS?
+Applications , Features  of AWS
+Advantages and Disadvantages of AWS
+AWS vs Azure
+AWS vs Google Cloud Plateform(GCP)
+AWS vs Azur vs GCP
+
+
+
+Step.2 AWS IAM
+What is IAM? It's need? 
+AWS SAML
+IAM Identities
+IAM Roles
+IAM Roles Use Cases
+Creating IAM Roles
+
+
+
+Step.3 AWS EC2 Concept
+AWS EC2 Intro
+AWS EC2 Instance Types
+AWS EC2 Pricing
+AWS EC2 Scaling
+AWS EC2 Auto Scaling
+Elastic Beanstalk
+EKS (Elastic Container Service for Kubernetes)
+AWS Elastic Load Balancing
+AWS EBS
+LightSail
+Creating an EC2 instance
+EBS Volume
+Security Group
+Creating an AMI
+AWS Load Balancing
+Creating Load Balancer
+AWS Lambda
+Creating a Lambda
+CloudWatch EC2
+AWS Bash Script
+
+
+
+
+Step.4 AWS Storage Services
+AWS S3
+Amazon Glacier
+Amazon Elastic Block Store (EBS)
+Creating S3 Bucket
+AWS Storage Gateway
+AWS Storage Classes
+AWS Versioning
+Cross Region Replication
+Lifecycle Management
+CloudFront CDN
+Creating CloudFront CDN
+Storage Gateway
+AWS Snowball
+S3 Transfer Acceleration
+
+
+
+
+Step.5 Migration and Security Services
+DMS (Database Migration Service)
+SMS (Server Migration Service)
+Snowball
+IAM
+Inspector
+Certificate Manager
+WAF (Web Application Firewall)
+Cloud Directory
+KMS
+Organizations
+Shield
+Macie
+
+
+
+
+Step.6 AWS Database Services
+Relational Database
+Non-Relational Database
+AWS Elasticache
+Creating an RDS Instance
+AWS DynamoDB
+AWS Aurora
+AWS Redshift
+Neptune
+
+
+
+Step.7 Analytics and Management Services
+Athena
+CloudSearch
+ElasticSearch
+EMR
+Kinesis
+QuickSight
+AWS Auto Scaling
+Data Pipeline
+CloudWatch
+CloudFormation
+CloudTrail
+OpsWorks
+Config
+Service Catalog
+Managed Services
+Systems Manager
+
+
+
+
+Step.8 AWS Application Services
+AWS SQS
+AWS SWF
+AWS SNS
+Elastic Transcoder
+API Gateway
+AWS Kinesis
+
+
+
+
+Step.9 AWS VPC
+AWS VPC
+Creating your own custom VPC
+Direct Connect
+NAT Gateways
+AWS Bastion Host
+AWS VPC Endpoints , FlowLogs
+AWS NACL
+NACL vs Security Group
+AWS Data Pipeline
+
+
+
+
+Step.10 AWS Developer Tools
+CodeStar
+CodeBuild
+CodeCommit
+CodeDeploy
+
+
+
+
+
+
+
+
+
+
+
+🔥 AWS Data Analytics Roadmap 🔥 
+
+* 		Here is an AWS Data Analytics roadmap that will take you from 0 - expert in 13 steps 👇 
+* 		
+* 		💹 Learn the basics.
+* 		Familiarize yourself with:
+* 		✔ AWS cloud infrastructure
+* 		✔ AWS services for analytics
+* 		✔ Data storage and processing concepts
+* 		You can find introductory courses on AWS website (AWS Skill Builder)
+* 		
+* 		✴ Master SQL
+* 		SQL is the core language for working with data. Learn syntax, complex queries, and functions. Improve your skill in SQL manipulation using Amazon Redshift, MySQL and PostgreSQL.
+* 		
+* 		🐍 Learn Python
+* 		Python is the most popular language for data analysis and manipulation and it is essential to understand its fundamentals.
+* 		Try learning it with online courses or books like 'Python for Data Analysis' by Wes McKinney.
+* 		
+* 		⛎ Dive into Big Data.
+* 		Start with understanding the fundamentals of big data:
+* 		✔ Volume, Variety, Velocity
+* 		✔ Extract, Transform, Load (ETL)
+* 		✔ Hadoop, Spark, Hive
+* 		Learn how to work with distributed systems and how to select appropriate data stores.
+* 		
+* 		✳ Understand ETL (Extract, Transform, Load)
+* 		ETL is the process of getting data from various sources, cleaning it and loading it into a target system.
+* 		AWS offers many ETL tools like AWS Glue, so learning how to use them is crucial.
+* 		
+* 		📈 Learn AWS Storage Solutions
+* 		AWS offers a variety of storage options such as:
+* 		✔ Amazon S3
+* 		✔ Amazon RDS
+* 		✔ Amazon DynamoDB
+* 		
+* 		📣 Learn AWS Data Processing Services.
+* 		AWS offers several data processing Services such as:
+* 		✔ Amazon EMR
+* 		✔ Amazon Athena
+* 		✔ Amazon Kinesis
+* 		
+* 		💹 Learn AWS Data Analysis services
+* 		AWS offers many data analytics services such as 
+* 		✔ Amazon Redshift
+* 		✔ Amazon Kinesis.
+* 		
+* 		📉 Learn data visualization
+* 		Data visualization is the process of creating graphics that represent data in an easy-to-understand way.
+* 		Tools like Amazon QuickSight can help you create data visualizations and there are many resources available online to learn data visualization.
+
+
+
