@@ -137,9 +137,8 @@ Creating Grafana Dashboards.
 Understanding Alert Manager.
 
 
-# If TIme allows Il cover AzuredevOps too
 
-# Azure DevOps
+### Azure DevOps
 
 Introduction to Azure DevOps and Agile terminologies.
 
