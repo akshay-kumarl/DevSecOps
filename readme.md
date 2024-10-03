@@ -1,166 +1,83 @@
-# DevSecOps repo
+## DevSecOps 
+<br/>
+1. Version Control Systems (VCS)
 
-Cloud: AWS, Azure, or GCP <br/>
-SecOps Tools: SonarQube, HashiCorp Vault, Trivy, Ansible Vault <br/>
-Other Tools: JQ, net-tools, unzip, AWS CLI, Tmux, PuTTY 
+   •	**Git:** Popular version control system for tracking changes in code and collaborating with teams. Tools like GitHub, GitLab, and Bitbucket are built on Git.
 
+2. Continuous Integration (CI) / Continuous Delivery (CD)
 
+	•	**Jenkins:** Widely used for automating CI/CD pipelines. Allows integration with various other tools.<br/>
+	•	**GitLab CI:** Built-in CI/CD pipeline within GitLab for seamless DevOps processes.<br/>
+	•	**CircleCI:** Cloud-based CI/CD service that integrates well with GitHub and Bitbucket.<br/>
+	•	**Travis CI:** Another cloud-based CI tool, often used in open-source projects.<br/>
+	•	**Azure DevOps:** Microsoft’s cloud platform providing CI/CD pipelines, repos, and more.
 
+3. Configuration Management
 
+	•	**Ansible:** Agentless configuration management tool that uses simple YAML files.<br/>
+	•	**Chef:** Automates server provisioning using “recipes” to define configurations.<br/>
+	•	**Puppet:** Another tool for configuration management with a focus on system configurations.<br/>
+	•	**SaltStack:** For event-driven IT automation and configuration management.
 
+4. Containerization & Orchestration
 
-# Shell Scrpting: 
+	•	**Docker:** Most popular containerization tool, enables creating, managing, and running containers.<br/>
+	•	**Kubernetes:** Leading container orchestration platform for deploying, scaling, and managing containerized applications.<br/>
+	•	**OpenShift:** Red Hat’s Kubernetes-based container platform.<br/>
+	•	**Helm:** Kubernetes package manager to manage Kubernetes applications.
 
-Variables-Script-grep-awk-cut
+5. Infrastructure as Code (IaC)
 
-Arguments-PassingSpecialparams
+	•	**Terraform:** Open-source tool by HashiCorp for building, changing, and versioning infrastructure efficiently.<br/>
+	•	**CloudFormation:** AWS-specific tool to provision infrastructure using JSON/YAML templates.<br/>
+	•	**Pulumi:** An IaC tool that allows infrastructure definitions in general-purpose programming languages.
 
-OutputRedirection-For-While
+6. Monitoring & Logging
 
-UserAutomation
+	•	**Prometheus:** Open-source tool for monitoring and alerting, commonly used with Kubernetes.<br/>
+	•	**Grafana:** Visualization tool for metrics from Prometheus, InfluxDB, etc.<br/>
+	•	**ELK Stack** (Elasticsearch, Logstash, Kibana): Popular for logging and data visualization.<br/>
+	•	**Datadog:** Cloud-based monitoring and analytics platform for infrastructure and applications.<br/>
+	•	**Splunk:** Comprehensive tool for searching, monitoring, and analyzing machine-generated data.
 
-RegEx-Break-Continue-CustomExitCodes
+7. Security and Compliance (DevSecOps)
 
-Functions 
+	•	**SonarQube:** Continuous inspection of code quality to detect bugs, vulnerabilities, and code smells.<br/>
+	•	**Aqua Security:** Secures containerized applications.<br/>
+	•	**Snyk:** Finds and fixes vulnerabilities in open-source libraries and container images.<br/>
+	•	**HashiCorp Vault:** Manages secrets and protects sensitive data.
 
-Scripts 
+8. Collaboration and Communication
 
+	•	**Slack:** For team communication, often integrated with various DevOps tools for alerts and updates.<br/>
+	•	**Microsoft Teams:** Another popular communication tool, integrated with CI/CD pipelines.
 
-# GIT
+9. Cloud Platforms
 
-Introduction to Git version control application
+	•	**AWS:** Amazon Web Services, widely used for cloud infrastructure.<br/>
+	•	**Azure:** Microsoft’s cloud platform, popular for hybrid cloud environments.<br/>
+	•	**Google Cloud Platform (GCP):** Google’s cloud offering, strong in big data and machine learning.
 
-Git Repositories -  GitHub Authentication
+10. Build Automation
 
-Adding, Committing, Renaming Deleting files
+	•	**Maven:** Apache tool primarily for building Java projects.<br/>
+	•	**Gradle:** Another build automation tool that integrates with popular IDEs and platforms.<br/>
+	•	**Ant:** Tool for automating build processes, also popular in Java ecosystems.
 
-GitHub Branches, Merging Webhooks
+11. Artifact Management
 
-Understanding stash, diff, rebase, fetch, pull, push.
+	•	**Nexus:** Universal artifact repository manager for storing binaries and build artifacts.<br/>
+	•	**Artifactory:** Another widely used repository manager that supports multiple package types.
 
-#Terraform and Packer 
+12. Testing Automation
 
-Understanding Providers, Variables; States, Locals.
+	•	**Selenium:** Open-source tool for automating web browser interactions.<br/>
+	•	**JUnit:** Framework for unit testing in Java.<br/>
+	•	**Postman:** For testing APIs in development and CI/CD workflows.
 
-Using Terraform Functions for Terraform Productivity.
+13. Feature Flag Management
 
-Configuring Remote state using AWS Simple Storage Service(S3)
+	•	**LaunchDarkly:** For feature flagging and managing feature rollouts in production.<br/>
+	•	**Flagsmith:** Open-source alternative to manage feature toggles.
 
-Understanding Terraform Functions.
 
-Creating Terraform Modules.
-
-Creating Workspaces in Terraform Enterprises(TFE)
-
-Introduction to Packer
-
-Create AWS AMI using Packer.
-
-Integration of GitHub, Packer  Terraform with Jenkins.
-
-
-# Docker : https://github.com/saikiranpi/Mastering-Docker
-
-
-# Ansible 
-
-Differences between Ansible vs Puppet Vs Chef.
-
-Understanding Ansible Architecture.
-
-Configure Ansible Lab Platform.
-
-Integrating Ansible with Terraform  Packer.
-
-Creating Using Ansible Playbooks.
-
-Understanding   Using Ansible Roles.
-
-Using Ansible Variables  Templates.
-
-Leveraging Ansible Galaxy for Roles.
-
-# Jenkins
-
-Install  Configure Jenkins
-
-Features  Master-Slave Architecture of Jenkins.
-
-Configuring Slaves in EC2 and Docker Containers.
-
-Configure Jenkins Job, RBAC, Pulgins.
-
-Creating and managing Scripted and Declarative Pipelines.
-
-Creating multi branch pipelines with Jenkins Blue Ocean.
-
-Configuring CI/CD Pipeline.
-
-Integrating with Maven JFrog for Springboot Application.
-
-Integrating With Sonarqube for Code Quality, Code Coverage and Bugs.
-
-Integrating Jenkins with AWS, GitHub  Docker.
-
-Configure Jenkins Notifications For Slack.
-
-
-# Security Tools
-
-Sonarqube Quality
-
-Hashicorp Vault for Passwords
-
-Trivy Container Scanning
-
-Secret Scanning in Terraform & Ansihle Code
-
-Ansible Vault for Secret Mgmg
-
-
-# Build  and Monitoring
-
-Installing maven.
-
-Maven lifecycle & Performing builds.
-
-Understanding Maven Build LifeCycle.
-
-Integrating with JFrog for Maven Deploy.
-
-Introduction to Prometheus Monitoring.
-
-Installing Prometheus and configuring Linux Server node exporter.
-
-Creating Grafana Dashboards.
-
-Understanding Alert Manager.
-
-
-
-### Azure DevOps
-
-Introduction to Azure DevOps and Agile terminologies.
-
-Creating User Stories,Issues, Epics, Kanban Boards.
-
-Creating Repositories, Importing Code and Branching with Azure
-DevOps.
-
-Creating Build Pipelines and Integrating with Azure, AWS Storage.
-
-Creating and Pushing Docker Images using Azure DevOps.
-
-Azure DevOps Builds and Artifacts.
-
-CI/CD with Azure DevOps using Release Pipelines.
-
-Integrating Terraform with Azure DevOps.
-
-User Management for Azure DevOps using Azure Active Directory.
-
-Azure DevOps Custom agent pools  Deployment Groups.
-
-Integrating with Maven and JFrog.
-
-Updating POM File for Spring Boot Applications.
