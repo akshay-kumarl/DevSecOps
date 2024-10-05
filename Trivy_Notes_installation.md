@@ -2,7 +2,8 @@
 vim trivy.sh
 
 copy below commands and save and run as (give executable permisisions)
-> sh trivy.sh
+> chmod +x ./trivy.sh <br/>
+> sh trivy.sh    (OR)  ./trivy.sh  
 ```
 sudo apt-get install wget apt-transport-https gnupg lsb-release -y
 wget -qO - https://aquasecurity.github.io/trivy-repo/deb/public.key | gpg --dearmor | sudo tee /usr/share/keyrings/trivy.gpg > /dev/null
