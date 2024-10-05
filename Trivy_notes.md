@@ -1,4 +1,4 @@
-
+## Installation
 vim trivy.sh
 
 copy below commands and save and run as (give executable permisisions)
