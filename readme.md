@@ -1,5 +1,12 @@
 ## DevSecOps 
 <br/>
+
+
+![devopstools](https://github.com/user-attachments/assets/fa144312-0386-4dea-9bc9-db819165efcf)
+
+
+---
+
 1. Version Control Systems (VCS)
 
    •	**Git:** Popular version control system for tracking changes in code and collaborating with teams. Tools like GitHub, GitLab, and Bitbucket are built on Git.
