@@ -99,7 +99,13 @@ DependencyCheck
 
 ---
 
-### to check which port is occupied 
+### To check the ports occupied or not
 ```
 sudo netstat -tulnp | grep 80
+```
+
+### To check all occupied ports 
+
+```
+sudo netstat -tulnp
 ```
