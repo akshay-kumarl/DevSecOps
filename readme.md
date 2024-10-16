@@ -96,3 +96,10 @@ Vulnerability **IMAGE** Scanner Tool For DevSecOps
 Trivy<br/>
 Anchore<br/>
 DependencyCheck
+
+---
+
+### to check which port is occupied 
+```
+sudo netstat -tulnp | grep 80
+```
