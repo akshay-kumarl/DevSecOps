@@ -1,0 +1,24 @@
+### Intro for DevOps
+ 
+ 
+ Hi, this is akshay, currently working as a DevOps Engineer at (XXXX company)prolax company for the past 5 years.  
+ I am presently supporting sedera client, where our team manages **two applications.  
+ 
+ As a DevOps Engineer, my responsibility is to ensure a clean, stable, and high-performing environment.  
+ 
+ 💻 I have hands-on experience with various DevOps tools, including:  
+ 🔹 Git, GitHub, Jenkins, Maven, Ansible, Docker, Terraform, and Kubernetes for orchestration.  
+ ☁️ Cloud Experience: AWS (EC2, S3, Route53, ALB, VPC, CloudWatch, CloudTrail, ECS, ECR).  
+ 🏢 Also worked with physical data centers for infrastructure management.
+ 
+ 📌 Roles & Responsibilities:
+ 
+ 🚀 Collaborating with development teams for upcoming releases.  
+ 📦 Managing weekly releases and flex releases (every 2-3 months).  
+ ⚠️ Monitoring and responding to alerts to ensure system reliability.  
+ 🔧 Maintaining Jenkins pipelines and overall infrastructure.  
+ 🔄 Handling patching activities in collaboration with the Linux team (quarterly updates).  
+ 📟 Providing 24/7 support via PagerDuty for high-priority incidents.
+
+
+ 
